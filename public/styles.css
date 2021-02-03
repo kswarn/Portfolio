@@ -19,6 +19,8 @@ h4 {
 }
 
 img {
+  height: 200px;
+  width: 200px;
   margin-top: 20px;
   border-radius: 100px;
   transition: all 0.3s ease-in-out;
